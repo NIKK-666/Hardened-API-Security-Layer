@@ -1,0 +1,12 @@
+{"level":"info","time":"2026-06-04T17:07:00.868Z","pid":2636,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T17:20:25.153Z","pid":6944,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T17:32:59.583Z","pid":17728,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T17:33:02.393Z","pid":16152,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T17:34:38.236Z","pid":23048,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T18:43:20.633Z","pid":14684,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T18:43:41.453Z","pid":26024,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T18:44:23.567Z","pid":14168,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T18:45:38.569Z","pid":14220,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T18:46:56.108Z","pid":23220,"hostname":"laptop","port":3000,"msg":"Secure Vault API started"}
+{"level":"info","time":"2026-06-04T18:47:01.863Z","pid":23220,"hostname":"laptop","event":"user_registered","userId":"6334ce6a-b7d9-44a0-95b6-ea87424416c4","msg":"New user registered"}
+{"level":"info","time":"2026-06-04T18:47:55.381Z","pid":23220,"hostname":"laptop","event":"login_success","userId":"6334ce6a-b7d9-44a0-95b6-ea87424416c4","msg":"User logged in"}
