@@ -17,4 +17,5 @@ export function authenticate(req, res, next) {
         return res.status(401).json({ error: 'Invalid or expired token' }); // If token verification fails, return a 401 Unauthorized response
     }
 }
+
    // Export the JWT_SECRET for use in other modules, such as auth.js
