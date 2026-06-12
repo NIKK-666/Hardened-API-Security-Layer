@@ -1,3 +1,4 @@
+
 # Hardened API Security Layer (Secure Vault API)
 
 ## Overview
@@ -48,3 +49,4 @@ Secure Vault API is a hardened Express.js application built using a defense-in-d
 - Pino Logger
 - Express Rate Limit
 
+<img width="960" height="1080" alt="Screenshot 2026-06-04 235242" src="https://github.com/user-attachments/assets/4cc7aa6d-f047-4b39-a84f-0deda24d4fc7" />
